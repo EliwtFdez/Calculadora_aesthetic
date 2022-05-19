@@ -1,0 +1,18 @@
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\bin\Debug\net6.0-windows\Calculadora-Beta 1.0.exe
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\bin\Debug\net6.0-windows\Calculadora-Beta 1.0.deps.json
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\bin\Debug\net6.0-windows\Calculadora-Beta 1.0.runtimeconfig.json
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\bin\Debug\net6.0-windows\Calculadora-Beta 1.0.dll
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\bin\Debug\net6.0-windows\Calculadora-Beta 1.0.pdb
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.csproj.AssemblyReference.cache
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora_Beta_1._0.Form1.resources
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora_Beta_1._0.Properties.Resources.resources
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.csproj.GenerateResource.cache
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.AssemblyInfoInputs.cache
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.AssemblyInfo.cs
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.csproj.CoreCompileInputs.cache
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.dll
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\refint\Calculadora-Beta 1.0.dll
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.pdb
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\Calculadora-Beta 1.0.genruntimeconfig.cache
+C:\Users\intel\Desktop\Platzi\Calculadora-Beta 1.0\Calculadora-Beta 1.0\obj\Debug\net6.0-windows\ref\Calculadora-Beta 1.0.dll
